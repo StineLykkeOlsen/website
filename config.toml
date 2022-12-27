@@ -80,7 +80,7 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Stine Lykke Olsen"
       logoHomeLink = "/"
 
     [languages.en.menu]
