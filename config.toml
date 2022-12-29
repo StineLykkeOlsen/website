@@ -88,16 +88,11 @@ paginate = 5
         identifier = "about"
         name = "About"
         url = "/about"
-    [[languages.en.menu.main]]
+     [[languages.en.menu.main]]
         identifier = "technical writer"
         name = "Technical Writer"
         url = "/technical writer"
     [[languages.en.menu.main]]
-        identifier = "technical translator"
-        name = "Technical Translator"
-        url = "/technical translator"
-    [[languages.en.menu.main]]
         identifier = "resume"
-        name = "My Resume"
+        name = "Resume"
         url = "/resume"
-    
