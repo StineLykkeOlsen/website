@@ -12,19 +12,19 @@ paginate = 5
   contentTypeName = "posts"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "orange"
+  themeColor = "pink"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 4
 
   # show selector to switch language
   showLanguageSelector = false
 
   # set theme to full screen width
-  fullWidthTheme = true
+  fullWidthTheme = false
 
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
 
   # if your resource directory contains an image called `cover.(jpg|png|webp)`,
   # then the file will be used as a cover automatically.
@@ -80,7 +80,7 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Stine Lykke Olsen"
       logoHomeLink = "/"
 
     [languages.en.menu]
@@ -88,8 +88,16 @@ paginate = 5
         identifier = "about"
         name = "About"
         url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+    [[languages.en.menu.main]]
+        identifier = "technical writer"
+        name = "Technical Writer"
+        url = "/technicalwriter"
+    [[languages.en.menu.main]]
+        identifier = "technical translator"
+        name = "Technical Translator"
+        url = "/technicaltranslator"
+    [[languages.en.menu.main]]
+        identifier = "resume"
+        name = "My Resume"
+        url = "/resume"
 
