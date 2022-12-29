@@ -15,7 +15,7 @@ paginate = 5
   themeColor = "pink"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 4
+  showMenuItems = 2
 
   # show selector to switch language
   showLanguageSelector = false
@@ -88,11 +88,8 @@ paginate = 5
         identifier = "about"
         name = "About"
         url = "/about"
-     [[languages.en.menu.main]]
-        identifier = "technical writer"
-        name = "Technical Writer"
-        url = "/technical writer"
-    [[languages.en.menu.main]]
-        identifier = "resume"
-        name = "Resume"
-        url = "/resume"
+      [[languages.en.menu.main]]
+        identifier = "showcase"
+        name = "Showcase"
+        url = "/showcase"
+
