@@ -1,7 +1,4 @@
 # Bio
-
-I am a tech writer, technical translator and language afficionada, living and working in Odder, Central Denmark. 
-
 My goal is to help companies and organizations optimize their technical communication by providing great technical content. As a passionate language nerd, I focus on writing concise and clear texts that are nice to read and easy to understand. 
 
 I have successfully helped companies and organizations in the health software, first aid, educational, and technical hardware sectors with technical writing and translation tasks. 

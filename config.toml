@@ -90,14 +90,14 @@ paginate = 5
         url = "/about"
     [[languages.en.menu.main]]
         identifier = "technical writer"
-        name = "Technical Writer"
+        name = "Technical Writing"
         url = "/technicalwriter"
     [[languages.en.menu.main]]
         identifier = "technical translator"
-        name = "Technical Translator"
+        name = "Technical Translation"
         url = "/technicaltranslator"
     [[languages.en.menu.main]]
         identifier = "resume"
-        name = "My Resume"
+        name = "Resume"
         url = "/resume"
 
