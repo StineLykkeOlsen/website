@@ -1,10 +1,8 @@
 +++ 
-title = "Technical Writer" 
+title = " What do I do as a Technical Writer?" 
 date = "2023-01-09" 
 author = "Stine" 
 +++
-
-# What do I do as a Technical Writer?
 In short, my role as a technical writer is to communicate technical information to various audiences. 
 
 As a tech writer I use a variety of tools in my day-to-day work to convey information to the end user in an applicable and comprehensible way. These tools include version control systems, XML’s, and text processing programs, such as GitHub, DITA XML, and Microsoft Word. 

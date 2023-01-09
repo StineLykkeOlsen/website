@@ -1,5 +1,5 @@
 +++ 
-title = "Something" 
+title = "I'm Stine" 
 date = "2023-01-09" 
 author = "Stine" 
 framed = true
