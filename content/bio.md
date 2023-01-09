@@ -1,4 +1,9 @@
-# Bio
++++ 
+title = "Bio" 
+date = "2023-01-09" 
+author = "Stine" 
++++
+
 My journey towards becoming a technical writer and translator started in 2005 when I had my first job editing and proof reading a translation for a Danish First Aid Company. For the last couple of decades I have worked as a translator, writer, and language teacher. In 2022, however, I decided to take the leap and become an independent technical writer and translator.
 
 My goal is to help companies and organizations optimize their technical communication by providing great technical content. In my personal and professional life I strive to adhere to my core values:

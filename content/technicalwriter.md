@@ -1,3 +1,9 @@
++++ 
+title = "Technical Writer" 
+date = "2023-01-09" 
+author = "Stine" 
++++
+
 # What do I do as a Technical Writer?
 In short, my role as a technical writer is to communicate technical information to various audiences. 
 

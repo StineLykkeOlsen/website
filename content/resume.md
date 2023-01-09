@@ -1,3 +1,9 @@
++++ 
+title = "Resume" 
+date = "2023-01-09" 
+author = "Stine" 
++++
+
 # Resume
 February 2022 -     Content Writer
 
