@@ -8,15 +8,14 @@ My journey towards becoming a technical writer and translator started in 2005 wh
 
 My goal is to help companies and organizations optimize their technical communication by providing great technical content. In my personal and professional life I strive to adhere to my core values:
 
-\# Be quality conscious
+    # Be quality conscious
 
-\# Be reliable and trustworthy
+    # Be reliable and trustworthy
 
-\# Be genuine, respectful, and kind
+    # Be genuine, respectful, and kind
 
-I have successfully helped companies and organizations in the health software, first aid, educational, and technical hardware sectors with technical writing and translation tasks. 
+I have successfully helped companies and organizations in the health software, first aid, educational, and technical hardware sectors with technical writing and translation tasks. They include:
 
-# These include:
 
     > Proof reading, editing, and quality management
 

@@ -2,6 +2,7 @@
 title = " What do I do as a Technical Writer?" 
 date = "2023-01-09" 
 author = "Stine" 
+cover = "img/Technical_Writing_Image.jpg"
 +++
 In short, my role as a technical writer is to communicate technical information to various audiences. 
 

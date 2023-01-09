@@ -4,6 +4,7 @@ date = "2023-01-09"
 author = "Stine" 
 framed = true
 +++
+Hi, there!
 
 I am a tech writer, technical translator and language afficionada, living and working in Odder, Central Denmark. 
 

@@ -2,7 +2,7 @@
 title = "Technical Translation" 
 date = "2023-01-09" 
 author = "Stine" 
-cover =  "img/Technical_Writer_image_Unsplash.jpg"
+cover =  "img/Technical_Translation_Image.jpg"
 +++
 
 With the help of a skilled technical translator, you can brand your business through high quality translations. Professional technical translations ensure an accurate communication with international target audiences, enhance the user experience, and may in some cases even safeguard consumer safety.
