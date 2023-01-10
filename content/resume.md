@@ -2,7 +2,7 @@
 title = "Clients and Tasks" 
 date = "2023-01-09" 
 author = "Stine" 
-Cover = "img/Tech_writer_pic.jpg"
+
 +++
 For a full overview of my full employment history, check out my resume on LinkedIn here.
 
