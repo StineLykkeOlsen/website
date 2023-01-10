@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
-    <priority>0</priority>
+    <loc>https://stinelykkeolsen.dk/technicalwriter/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
-    <priority>0</priority>
+    <loc>https://stinelykkeolsen.dk/bio/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/resume/</loc>
-    <priority>0</priority>
+    <loc>https://stinelykkeolsen.dk/resume/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/technicaltranslator/</loc>
-    <priority>0</priority>
+    <loc>https://stinelykkeolsen.dk/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/technicalwriter/</loc>
-    <priority>0</priority>
+    <loc>https://stinelykkeolsen.dk/technicaltranslator/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://stinelykkeolsen.dk/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://stinelykkeolsen.dk/tags/</loc>
   </url>
 </urlset>
