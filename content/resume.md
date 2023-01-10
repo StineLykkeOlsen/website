@@ -1,9 +1,10 @@
 +++ 
-title = "Resume" 
+title = "Clients and Tasks" 
 date = "2023-01-09" 
 author = "Stine" 
+Cover = "img/Tech_writer_pic.jpg"
 +++
-See my resume at LinkedIn here
+For a full overview of my full employment history, check out my resume on LinkedIn here.
 
 Certifications and courses
 **Udemy.com**
@@ -12,7 +13,7 @@ Certifications and courses
     > SDK Bridge: Coding for Writers: Basic Programming
 
     > SDK Bridge: Git and GitHub for Writers
-
+    
     > JPDocu School of Technical Writing: How to Write Using DITA XML
 
     > JPDocu School of Technical Writing: Technical Writing: Getting Started with Python
