@@ -4,21 +4,22 @@ date = "2023-01-09"
 author = "Stine" 
 cover = "img/Tech_Writer_Resume.jpg"
 +++
-    KompetenceKanalen A/S
 
-    Semantix 
+    > KompetenceKanalen A/S
 
-    TransPerfect 
+    > Semantix 
 
-    Intertranslations
+    > TransPerfect 
 
-    Avantigruppen
+    > Intertranslations
 
-    Bitmatic
+    > Avantigruppen
 
-    Danmarks Radio
+    > Bitmatic
 
-For a full overview of my full employment history, check out my resume on LinkedIn here.
+    > Danmarks Radio
+
+*For a full overview of my full employment history, check out my resume on LinkedIn here.*
 
 Certifications and courses
 **Udemy.com**
