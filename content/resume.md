@@ -1,9 +1,23 @@
 +++ 
-title = "Clients and Tasks" 
+title = "Clients" 
 date = "2023-01-09" 
 author = "Stine" 
-
+cover = "img/Tech_Writer_Resume.jpg"
 +++
+    KompetenceKanalen A/S
+
+    Semantix 
+
+    TransPerfect 
+
+    Intertranslations
+
+    Avantigruppen
+
+    Bitmatic
+
+    Danmarks Radio
+
 For a full overview of my full employment history, check out my resume on LinkedIn here.
 
 Certifications and courses
