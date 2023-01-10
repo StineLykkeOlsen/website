@@ -8,7 +8,7 @@ This page provides you with a short overview of my former and current clients.
 
 I have also added a list of recent certificates in the technical field. 
 
-For a full overview of my education, certificates, and employment history, check out my resume on [LinkedIn](https://www.linkedin.com/in/stinelykkeolsen/).
+For a full overview of my education, certificates, and employment history, check out my resume on [LinkedIn](https://linkedin.com/in/stinelykkeolsen/).
 
 
     > KompetenceKanalen A/S
