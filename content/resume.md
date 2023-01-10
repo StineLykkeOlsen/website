@@ -1,9 +1,15 @@
 +++ 
-title = "Clients" 
+title = "Clients and Certificates" 
 date = "2023-01-09" 
 author = "Stine" 
 cover = "img/Tech_Writer_Resume.jpg"
 +++
+This page provides you with a short overview of my former and current clients. 
+
+I have also added a list of recent certificates in the technical field. 
+
+For a full overview of my education, certificates, and employment history, check out my resume on [LinkedIn](https://www.linkedin.com/in/stinelykkeolsen/).
+
 
     > KompetenceKanalen A/S
 
@@ -11,26 +17,23 @@ cover = "img/Tech_Writer_Resume.jpg"
 
     > TransPerfect 
 
-    > Intertranslations
+    > Intertranslations S.A.
 
-    > Avantigruppen
+    > Avantigruppen A/S
 
-    > Bitmatic
+    > Bitmatic ApS.
 
     > Danmarks Radio
 
-*For a full overview of my full employment history, check out my resume on LinkedIn here.*
 
-Certifications and courses
-**Udemy.com**
-2022 -  
+# Certifications
 
     > SDK Bridge: Coding for Writers: Basic Programming
 
     > SDK Bridge: Git and GitHub for Writers
     
     > JPDocu School of Technical Writing: How to Write Using DITA XML
-
+    
     > JPDocu School of Technical Writing: Technical Writing: Getting Started with Python
 
     > Janet Underwood: Tech Writers Master Class
@@ -38,9 +41,5 @@ Certifications and courses
     > Viktor Garske:	Markdown für Einsteiger	
 
     > Google: Fundamentals of Digital Marketing	
-
-[Linke til certifikaterne]
-
-References are available on request
 
 
