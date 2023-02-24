@@ -10,7 +10,7 @@ As a tech writer I use a variety of tools in my day-to-day work to convey inform
 
 My experience with technical communication consists of writing, editing, and translating technical SEO web content, software and hardware documentation, user manuals, grant proposals, and other types of information. My areas of expertise as a tech writer are software, science, hardware, and medicine. 
 
-Among the services that I offer are technical writing and editing, coding, user experience design, and data analysis. I provide companies and organizations with, among other things:
+Among the services that I offer are technical writing and editing, user experience design, and data analysis. I provide companies and organizations with, among other things:
 
     > User manuals 
     > Product descriptions
@@ -22,7 +22,9 @@ Among the services that I offer are technical writing and editing, coding, user 
     > Software documentation
     > UX Writing
 
-To deliver optimal results I may conducts interviews with developers, product owners, designers, and others. My strength as a skilled technical writer is a comprehensive technical knowledge combined with strong writing skills. This enables me to serve as link between experts and developers on the one hand and end users and audiences on the other hand. 
+To deliver optimal results I may conduct interviews with developers, product owners, designers, and other stakeholders. 
+
+My strength as a technical writer is a comprehensive technical knowledge combined with strong writing skills. After years in the educational sector, I have learned to communicate highly specialized knowledge in a comprehensible and pedagogic manner. This enables me to serve as link between experts and developers on the one hand and end users and audiences on the other hand. 
 
 # My Approach to Technical Writing
 Docs like Code. Structured Writing. ASD-STE100 Simplified Technical English. These are all terms that float around the field of technical writing. Each of these terms cover different methods applied and practiced by tech writers. Each method has its merits and strengths depending on the subject matter of the content, the end user, the scope of the content, and the values and guidelines of the company or organization behind the text. 
