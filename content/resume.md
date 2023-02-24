@@ -1,5 +1,5 @@
 +++ 
-title = "Clients and Certificates" 
+title = "Resume" 
 date = "2023-01-09" 
 author = "Stine" 
 cover = "img/Tech_Writer_Resume.jpg"
