@@ -6,7 +6,7 @@ framed = true
 +++
 Hi, there!
 
-I am a tech writer, technical translator and language afficionada, living and working in Odder, Central Denmark. 
+I am a tech writer, technical translator, and language afficionada, living and working in Odder, Central Denmark. 
 
 I have created this portfolio website to showcase my experiences and skills in the fields of technical writing and technical translation. 
 
