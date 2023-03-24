@@ -98,6 +98,6 @@ paginate = 5
         url = "/technicaltranslator"
     [[languages.en.menu.main]]
         identifier = "resume"
-        name = "Resume"
+        name = "Showcase"
         url = "/resume"
 
