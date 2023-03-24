@@ -1,8 +1,8 @@
 +++ 
-title = "Resume" 
+title = "Showcase" 
 date = "2023-01-09" 
 author = "Stine" 
-cover = "img/Tech_Writer_Resume.jpg"
+cover = "img/Medium.png"
 +++
 This page provides you with a short overview of my former and current clients. 
 

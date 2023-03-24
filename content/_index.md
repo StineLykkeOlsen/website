@@ -12,7 +12,13 @@ I have created this portfolio website to showcase my experiences and skills in t
 
 To reflect my professional values, I write a bit about my philosophy towards writing and translation - and the importance of high-quality technical communication. 
 
-I am open to collaboration with companies and organisations all over the world. Don't hesitate to reach out by e-mail or visit my profile pages on [LinkedIn](https://linkedin.com/in/stinelykkeolsen) / [GitHub](https://github.com/StineLykkeOlsen).
+I am open to collaboration with companies and organisations all over the world. Don't hesitate to reach out by e-mail or visit my social media pages: 
+
+[LinkedIn](https://linkedin.com/in/stinelykkeolsen)
+
+[GitHub](https://github.com/StineLykkeOlsen)
+
+[Medium](https://medium.com/@stinelykkeolsen)
 
 
 
