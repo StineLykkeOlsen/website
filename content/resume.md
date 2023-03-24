@@ -4,11 +4,19 @@ date = "2023-01-09"
 author = "Stine" 
 cover = "img/Medium.png"
 +++
-This page provides you with a short overview of my former and current clients. 
+# Portfolio
+I have chosen [Medium](https://medium.com/@stinelykkeolsen) as the ... well, medium ... for my portfolio. It is gorgeous and much quicker to update than this static Hugo site. 
 
-I have also added a list of recent certificates in the technical field. 
+There, I share writing samples and articles on technical communication, languages, UX design, and coding. 
+Most of the content I write is owned by my clients, so my portfolio only shows a part of the things I have written.
 
-For a full overview of my education, certificates, and employment history, check out my resume on [LinkedIn](https://linkedin.com/in/stinelykkeolsen/).
+
+# Resume
+For a fully updated overview of my education, certificates, and employment history, check out my profile page on [LinkedIn](https://linkedin.com/in/stinelykkeolsen/).
+
+# Clients
+Below, you see a short list of some of my former and current clients that I have helped with copywriting and translation. 
+
 
 
     > KompetenceKanalen A/S
@@ -26,20 +34,5 @@ For a full overview of my education, certificates, and employment history, check
     > Danmarks Radio
 
 
-# Certifications
-
-    > SDK Bridge: Coding for Writers: Basic Programming
-
-    > SDK Bridge: Git and GitHub for Writers
-    
-    > JPDocu School of Technical Writing: How to Write Using DITA XML
-    
-    > JPDocu School of Technical Writing: Technical Writing: Getting Started with Python
-
-    > Janet Underwood: Tech Writers Master Class
-
-    > Viktor Garske:	Markdown für Einsteiger	
-
-    > Google: Fundamentals of Digital Marketing	
-
+For a detailed description of my tasks and results, see [LinkedIn](https://linkedin.com/in/stinelykkeolsen/).
 
