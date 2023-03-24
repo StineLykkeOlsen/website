@@ -16,10 +16,9 @@ I am open to collaboration with companies and organisations all over the world. 
 
 [LinkedIn](https://linkedin.com/in/stinelykkeolsen)
 
-[GitHub](https://github.com/StineLykkeOlsen)
-
 [Medium](https://medium.com/@stinelykkeolsen)
 
+[GitHub](https://github.com/StineLykkeOlsen)
 
 
 \@ stinelykkeolsen@outlook.dk
