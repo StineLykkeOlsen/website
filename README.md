@@ -1,1 +1,1 @@
-Sitnes awesome website
+Stines awesome website
